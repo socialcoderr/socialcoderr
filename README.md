@@ -10,7 +10,7 @@ Ben bir Fullstack geliştiricisiyim ve web uygulamaları geliştirmeye tutkuyla 
 
 **🎓 Öğrenmeye İlgili Olduğum Konular:** Web Geliştirme, Yapay Zeka ve Makine öğrenimi ilgimi çeken alanlar.
 
-**💬 Bana Ulaşın:** [muzafferbiter60@gmail.com] veya ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn Profilim](https://www.linkedin.com/in/MuzafferBiter)
+**💬 Bana Ulaşın:** [muzafferbiter60@gmail.com] veya ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn Profilim](https://www.linkedin.com/in/muzafferbiter1)
 
  üzerinden
 

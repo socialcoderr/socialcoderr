@@ -1,4 +1,4 @@
-# Merhaba, Ben [İsminiz]! 👋
+# Merhaba, Ben [Muzaffer]! 👋
 
 **Hakkımda:**
 
@@ -6,17 +6,7 @@
 - 📫 Bana ulaşın: [muzafferbiter60@gmail.com]
 
 
-**Projelerim:**
 
-### Proje 1: [Proje Adı]
-Bu projede [proje hakkında kısa açıklama].
-
-![Proje 1 Görsel](https://via.placeholder.com/400x200.png?text=Proje+1+Gorsel)
-
-### Proje 2: [Proje Adı]
-Bu projede [proje hakkında kısa açıklama].
-
-![Proje 2 Görsel](https://via.placeholder.com/400x200.png?text=Proje+2+Gorsel)
 
 **Bağlantılar:**
 

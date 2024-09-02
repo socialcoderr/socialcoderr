@@ -4,13 +4,14 @@
 Ben bir Fullstack geliştiricisiyim ve web uygulamaları geliştirmeye tutkuyla bağlıyım. Frontend ve backend teknolojilerini kullanarak kullanıcı dostu ve ölçeklenebilir çözümler oluşturuyorum. Sürekli öğrenmeyi ve kendimi geliştirmeyi seviyorum.
 
 
-**🌱 Şu Anda Öğrendiğim:** React, .NET Core
+**🌱 Şu Anda Öğrendiğim:** React, Redux, .NET Core, ASP.NET Core.
 
 **💼 Üzerinde Çalıştığım Proje:** Edubin; React ve Redux kullanarak geliştirdiğim bir online kurs platformu.
 
 **🎓 Öğrenmeye İlgili Olduğum Konular:** Web Geliştirme, Yapay Zeka ve Makine öğrenimi ilgimi çeken alanlar.
 
-**💬 Bana Ulaşın:** [muzafferbiter60@gmail.com] veya ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+**💬 Bana Ulaşın:** [muzafferbiter60@gmail.com] veya ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn Profilim](https://www.linkedin.com/in/MuzafferBiter)
+
  üzerinden
 
 🚀 Yeni teknolojiler öğrenmeyi, projeler üzerinde işbirliği yapmayı ve açık kaynak projelere katkıda bulunmayı seviyorum. Kodlamanın sınırlarını zorlamak ve yaratıcı çözümler bulmak benim için heyecan verici!
